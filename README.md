@@ -39,6 +39,14 @@ Hello! I decided to release the source code of a very simple program I made myse
 
 * Need to add other distros!
 
+### Mupdf
+
+* On debian-based distros:
+
+`sudo apt-get install mupdf`
+
+* Need to add other distros!
+
 ### Instagram's API
 
 You can follow the guide stated on the [Instagram's API repository](https://github.com/ping/instagram_private_api#Install) or  just run my **setup.sh** file as below:
