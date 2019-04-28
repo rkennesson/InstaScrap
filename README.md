@@ -62,7 +62,7 @@ In order to use it, go to the directory where the files were downloaded and run 
 
 `python3 main.py`
 
-You will be prompted to type a username, if it exists, it will proceed to download it on the destination folder (~Pictures/InstaScrap), if it doesn't, it will show a warning and ask you whether you like to type the username again or exit the program. 
+You will be prompted to type a username, if it exists, it will proceed to download it on the destination folder (~/Pictures/InstaScrap), if it doesn't, it will show a warning and ask you whether you like to type the username again or exit the program. 
 
 ##### Warning!
 The username that you putted in might be correct, but that doesn't mean it is the one you were searching for! Please, be sure to check the username before you put it in. It won't generate any inconvenience if you don't, but you would have lost your time.
