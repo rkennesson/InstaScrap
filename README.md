@@ -11,7 +11,7 @@ Hello! I decided to release the source code of a very simple program I made myse
 * will **ONLY** run on **Python 3.x.x**
 * is licensed under the **MIT License**, you can modify it or do whatever you want as long as you don't charge anything for it.
 
-2. The idea isn't new, but I could _not_ find any way to download a profile picture in higher resolution than 150x150. This program downloads them at 320x320 (it ain't much but it's honest work). So the quality would be more than twice, compared to the default ones.
+2. The idea is not new, but I could **not** find any way to download a profile picture in higher resolution than 150x150. This program downloads them at 320x320 (it ain't much but it's honest work). So the quality would be more than twice, compared to the default ones.
 
 ## Requirements
 
