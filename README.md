@@ -11,7 +11,7 @@ Hello! I decided to release the source code of a very simple program I made myse
 * will **ONLY** run on **Python 3.x.x**
 * is licensed under the **MIT License**, you can modify it or do whatever you want as long as you don't charge anything for it.
 
-2. The idea isn't new, but I could _not_ find any way to download a profile picture in higher resolution than 150x150. This program downloads them at 320x320 (it ain't much but it's honest work). So the quality would be more than twice, compared to the default ones.
+2. The idea is not new, but I could **not** find any way to download a profile picture in higher resolution than 150x150. This program downloads them at 320x320 (it ain't much but it's honest work). So the quality would be more than twice, compared to the default ones.
 
 ## Requirements
 
@@ -70,7 +70,7 @@ In order to use it, go to the directory where the files were downloaded and run 
 
 `python3 main.py`
 
-You will be prompted to type a username, if it exists, it will proceed to download it on the destination folder (~Pictures/InstaScrap), if it doesn't, it will show a warning and ask you whether you like to type the username again or exit the program. 
+You will be prompted to type a username, if it exists, it will proceed to download it on the destination folder (~/Pictures/InstaScrap), if it doesn't, it will show a warning and ask you whether you like to type the username again or exit the program. 
 
 ##### Warning!
 The username that you putted in might be correct, but that doesn't mean it is the one you were searching for! Please, be sure to check the username before you put it in. It won't generate any inconvenience if you don't, but you would have lost your time.
