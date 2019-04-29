@@ -82,3 +82,5 @@ The username that you putted in might be correct, but that doesn't mean it is th
 * [ ] Make an android apk
 * [ ] Be available to download feed's files (only for public profiles, for privates login is needed)
 * [ ] GUI
+
+_tested on Python 3.5.3 running Debian 9.8 (stretch)_
