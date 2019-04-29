@@ -57,7 +57,7 @@ You can follow the guide stated on the [Instagram's API repository](https://gith
 
 If it asks for permissions, run..
 
-`sudo chmod+777 setup.sh`
+`sudo chmod+1 setup.sh`
 
 ...and you will be covered.
 
