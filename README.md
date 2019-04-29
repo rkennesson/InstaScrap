@@ -4,7 +4,7 @@ This is the README.md file for InstaScrap 0.1
 
 Hello! I decided to release the source code of a very simple program I made myself, **InstaScraper**. The aim of the program is to get an user's **Instagram profile picture** without the need of you giving me your personal information. There is no need to log in in order to use said software.
 
-[logo]: screenshot.png
+[logo]: screenshot.png "screenshot"
 
 ## Acknowledgements
 
